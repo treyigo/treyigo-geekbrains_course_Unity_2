@@ -167,6 +167,7 @@
     <Compile Include="Assets\DownloadAssets\Standard Assets\Vehicles\Car\Scripts\Suspension.cs" />
     <Compile Include="Assets\DownloadAssets\Standard Assets\Vehicles\Car\Scripts\WheelEffects.cs" />
     <Compile Include="Assets\Scripts\BaseObject.cs" />
+    <Compile Include="Assets\Scripts\ChangeWeapon.cs" />
     <Compile Include="Assets\Scripts\FlashLight.cs" />
     <None Include="Assets\DownloadAssets\Standard Assets\Prototyping\Shaders\WorldCoordDiffuse.shader" />
     <None Include="Assets\DownloadAssets\Standard Assets\Effects\Projectors\Shaders\ProjectorLight.shader" />
